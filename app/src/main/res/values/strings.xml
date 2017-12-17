@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marcador</string>
+    <string name="local">LOCAL</string>
+    <string name="visitante">VISITOR</string>
+    <string name="restar">Restart</string>
+    <string name="back">Back</string>
+    <string name="mas3">+3</string>
+    <string name="mas2">+2</string>
+    <string name="mas1">+1</string>
+</resources>
